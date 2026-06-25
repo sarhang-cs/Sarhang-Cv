@@ -1,0 +1,20 @@
+# This repository publishes browser runtime only.
+# Development tools, native Android source, documentation, secrets, and local signing material stay private.
+docs/
+scripts/
+android-native/
+.github/
+reference/
+private-local-signing/
+*.jks
+*.keystore
+*.pem
+*.key
+*.p12
+*.pfx
+*.apk
+*.aab
+*.map
+*.sh
+!README.md
+!assets/app/SARHANGIO.apk

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sarhang-cs.github.io/Sarhang-Cv/sitemap.xml
